@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^longshotarmsllc\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.longshotarmsllc\.net$
+RewriteRule ^/?$ "http\:\/\/longshotarmsllc\.com" [R=301,L]
+

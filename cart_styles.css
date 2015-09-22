@@ -1,0 +1,70 @@
+/* CSS Document for Shopping Cart elements */
+div#category_nav {}
+#category_nav a {
+ font-weight: bold;
+}
+#category_nav a:hover {}
+.msg {
+ color: blue;
+}
+.error {
+ color: red;
+}
+div.debugging {
+ color: #000;
+ width: 500px;
+}
+/* Category and Subcategory pages */
+div#subcat_list {}
+span#subcat_list_title {
+ font-weight: bold;
+}
+#subcat_list a {}
+#subcat_list a:hover {}
+div#cat_descr {}
+table#product_table {}
+#product_table td {
+ text-align: center;
+}
+a.product_link {}
+a.product_link:hover {}
+div.product_descr {
+ text-align: left;
+}
+td.product_pagination {
+ text-align: center;
+}
+.product_pagination a {}
+/* Product page */
+a.back_to_cat_link {}
+table.product_detail {}
+span.product_title {
+ font-size: 16px;
+}
+table#product_photos {}
+#product_photos td {}
+#product_photos a {}
+span.field_name {
+ font-weight: bold;
+}
+.status {}
+/* Cart page */
+table#cart {}
+/* Checkout page */
+div#checkout_cust_info {}
+#checkout_cust_info .heading {
+ font-size: 15px;
+ font-weight: bold;
+}
+table#checkout_cust_address {}
+#checkout_cust_address td {
+ padding: 5px;
+}
+#checkout_cust_address .heading {
+ font-weight: bold;
+}
+p#order_details_heading {
+ font-size: 15px;
+ font-weight: bold;
+}
+table#order_details {}

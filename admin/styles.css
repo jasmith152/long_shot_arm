@@ -1,0 +1,40 @@
+/* Style Sheet created with the CoffeeCup StyleSheet Maker
+ http://www.coffeecup.com */
+
+h1 { font-family: Arial,Helvetica,sans serif;
+ font-size: 15px;
+ font-weight: 700;
+ }
+.instructions { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: 400;
+ color: #808080;
+ font-style: italic;
+ }
+.column_header { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: 700;
+ }
+.column_data { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: 400;
+ }
+.column_data_centered { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: 400;
+ text-align: center;
+ }
+.msg { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: 400;
+ color: #00F;
+ }
+.error { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: 700;
+ color: #F00;
+ }
+.type_header { font-family: Arial,Helvetica,sans serif;
+ font-size: 12px;
+ font-weight: bold;
+ }
